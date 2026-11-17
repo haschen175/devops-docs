@@ -12,3 +12,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://haschen175.github.io/devops-docs/`.
+
+Черновик: [страница в работе](missing-page.md).
